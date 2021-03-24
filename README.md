@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Charujain16
 - 👀 I’m interested in Core Java
 - 🌱 I’m currently learning java.
+- I am Computer Science Student.
 - 
 what about you??
 <!---
